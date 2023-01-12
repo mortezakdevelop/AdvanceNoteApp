@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Checklist</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="amazing">!</string>
+    <string name="priority">Priority</string>
+    <string name="description_optional">Description (Optional)</string>
+    <string name="title">Title</string>
+    <string name="click_to_add_item">Click + to add item</string>
+    <string name="about_us">About us</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="exit">Exit</string>
+</resources>
